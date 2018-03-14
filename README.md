@@ -3,6 +3,8 @@ A Networked Donation System for Virtual Worlds such as Second Life
 
 This is a snapshot of a Networked Donation System that I wrote in 2009-2010 for use in Second Life. It relies on an in-world object, which uses the LSL script which then communicates with a server back-end which uses the suite of php scripts and a MySQL database.  In order to use this system you will need to modify the scripts to point to your server, backend, and database.  Most of the backend scripts should be located in a directory protected with an .htaccess file.  There are a few php scripts however that are web-facing.
 
+Line 35 of the LSL script contains the key of the avatar that American Cancer Society used to receive the Linden Dollar Transactions. If you want to use this system for your own purposes I suggest creating an avatar to hold the funds and changing that line to the key of your fund holding avatar.  Money has to be sent to an agent as objects in Second Life cannot hold Linden Dollars only avatars can do so.
+
 There are things in this system I would not do today.  You should rename header.inc and footer.inc to header.php and footer.php for security reasons and change the require line at the top and bottom of each php file to reflect that. 
 
 This is not in active development the reasons for which I will explain below. But if you would like to use this system and need help setting it up, feel free to contact me at zenmondo@gmail.com and we can get it up to modern standards.  This is mostly to reflect my work in 2009-2010 and release it open source.
