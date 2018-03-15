@@ -1,0 +1,9 @@
+ZenMondo's Open Source License for the Networked Donation System for Virtual Worlds 1.0
+
+Any and all entities except the American Cancer Society are free to use, modify and distribute this code under the following conditions:
+
+* Attribution: Credit for this code must read "CodePoetry by ZenMondo Wormser (L. Christopher Bird)"  and for derivatives "Based on the CodePoetry by ZenMondo Wormser (L. Christopher Bird)
+
+* Share-Alike: Derivatives of this code must be distributed with this license. 
+
+* No Selling:  This software may not be sold commercially or distributed for the exchange of anything of value including currency.
